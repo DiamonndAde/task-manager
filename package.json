@@ -1,10 +1,11 @@
 {
-  "name": "jobs",
+  "name": "app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
